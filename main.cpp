@@ -47,6 +47,7 @@ int main(){
     est1.ingresarNotas();
 
     est1.mostrarCursos();
+	
 
     return 0;
 }
